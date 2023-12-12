@@ -6,6 +6,15 @@ Our proposed method is generic and effective, and theoretically can be seamlessl
 
 For the relevant code, please check the network section of the corresponding method on your own.
 
+# Model & DCC
+
+![image]([https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png](https://github.com/Fyzjym/DCC_for_HTG/blob/master/fig/model_arch.png))
+
+# Result
+
+
+
+
 # Evaluation metrics
 FID：
 
